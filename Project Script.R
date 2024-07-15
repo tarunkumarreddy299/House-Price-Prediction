@@ -3,7 +3,7 @@
 ###--------------------------------------------------------------------------------------####
 
 ## Reading Data
-data = read.csv("D:/College Stuff/Academics SaiU/Stats for Data Science/Stats For Data Science/Stats for DS Project/House Prices Data.csv)
+data = read.csv("D:/College Stuff/Academics SaiU/Stats for Data Science/Stats For Data Science/Stats for DS Project/House Prices Data.csv")
 str(data) ##Structure of training data set 
 summary(data) ##Summary of the data
 colnames(data) ##Column names
